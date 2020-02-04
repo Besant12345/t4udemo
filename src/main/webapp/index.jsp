@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello T4u Home page</h2>
+<h2>Welcome to T4u developer page</h2>
 </body>
 </html>
