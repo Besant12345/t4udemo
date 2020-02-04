@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World: src/main/webapp/index.jsp</h2>
+<h2>Hello T4u Home page</h2>
 </body>
 </html>
